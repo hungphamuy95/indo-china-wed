@@ -93,7 +93,7 @@
             class="mx-auto title font-weight-light mb-8"
             max-width="720"
           >
-            Kiến trúc Đông Dương là công ty tư vấn thiết kế đầu hàng Việt Nam trong lĩnh vực xây dựng công trình dân dụng...
+            Kiến trúc Đông Dương là công ty tư vấn thiết kế hàng đầu Việt Nam trong lĩnh vực xây dựng công trình dân dụng
           </v-responsive>
 
           <div></div>
