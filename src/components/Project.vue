@@ -88,7 +88,8 @@
   </v-container>
 </template>
 <script>
-import contents from "./../assets/content.json";
+/* eslint-disable */
+import contents from "./../static/content.json";
 
 export default {
   name: "Project",
@@ -136,7 +137,7 @@ export default {
   },
   methods: {
     openPopUp(id, title) {
-      this.content = contents.find(x=>x.id === id).content;
+      this.content = contents.find(x=>x.id === id.toString()).content;
       this.dialog = true;
       this.contentTitle = title;
     },
