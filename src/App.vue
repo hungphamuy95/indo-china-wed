@@ -13,7 +13,7 @@
         <v-img
           contain
           max-height="70%"
-          src="https://f19-zpg.zdn.vn/5079044742636045851/18513f281e6dea33b37c.jpg"
+          src="https://2.pik.vn/2021b5e7402f-3ea5-4cae-a6ec-732258f2f7f0.jpg"
         ></v-img>
       </v-avatar>
 
@@ -27,7 +27,7 @@
         <v-row no-gutters>
           <v-img
             :min-height="'calc(100vh - ' + $vuetify.application.top + 'px)'"
-            src="https://scontent-sin6-1.xx.fbcdn.net/v/t1.6435-9/188465267_6185044251509302_3506171266961121807_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=AdbaJI9QJsQAX9KlYRu&_nc_ht=scontent-sin6-1.xx&oh=a447cad1a8ac0a186576bb544407c6fa&oe=60E2B9DC"
+            src="https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/188028137_6185044188175975_5782016592016314307_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=eJDBnhxj-LMAX9IsUKz&tn=ik-Id_l3fdNuFitY&_nc_ht=scontent-hkg4-1.xx&oh=2d2acc4d470c48ff69418c812b8eb706&oe=60E511D3"
           >
             <v-theme-provider dark>
               <v-container fill-height>
@@ -95,13 +95,6 @@
           >
             Kiến trúc Đông Dương là công ty tư vấn thiết kế đầu hàng Việt Nam trong lĩnh vực xây dựng công trình dân dụng...
           </v-responsive>
-
-          <v-avatar
-            class="elevation-12 mb-12"
-            size="128"
-          >
-            <v-img src="https://f19-zpg.zdn.vn/5079044742636045851/18513f281e6dea33b37c.jpg"></v-img>
-          </v-avatar>
 
           <div></div>
 
@@ -233,7 +226,7 @@
         bottom
         left
         class="v-btn--example"
-        href="tel:0974788150"
+        href="tel:0918273645"
         color="error"
       >
         <v-icon>mdi-phone</v-icon>
