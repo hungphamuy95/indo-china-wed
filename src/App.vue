@@ -27,7 +27,7 @@
         <v-row no-gutters>
           <v-img
             :min-height="'calc(100vh - ' + $vuetify.application.top + 'px)'"
-            src="https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/188028137_6185044188175975_5782016592016314307_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=eJDBnhxj-LMAX9IsUKz&tn=ik-Id_l3fdNuFitY&_nc_ht=scontent-hkg4-1.xx&oh=2d2acc4d470c48ff69418c812b8eb706&oe=60E511D3"
+            src="https://b-f10-zpcloud.zdn.vn/2509029069971990422/70fff169da8a09d4509b.jpg"
           >
             <v-theme-provider dark>
               <v-container fill-height>
